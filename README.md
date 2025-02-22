@@ -16,15 +16,8 @@ Froilán De León
 <p>
   
 
-
 <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
 
 
-### Base de Datos
-<p>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="2" />
-
-
-<p>
 
 
